@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\bin\Debug\AssignmentWork.exe.config
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\bin\Debug\AssignmentWork.exe
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\bin\Debug\AssignmentWork.pdb
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\obj\Debug\AssignmentWork.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\obj\Debug\AssignmentWork.Form1.resources
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\obj\Debug\AssignmentWork.Properties.Resources.resources
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\obj\Debug\AssignmentWork.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\obj\Debug\AssignmentWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\obj\Debug\AssignmentWork.exe
+C:\Users\User\source\repos\AssignmentWork\AssignmentWork\obj\Debug\AssignmentWork.pdb
