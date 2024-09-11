@@ -1,6 +1,6 @@
 # CRUD-AssignmentWork
 CRUD APPLICATION USING VISUAL STUDIO AND MYSQL DATABASE
-Faciliates in understanding and demonstrating about the basic concepts of CREATE,READ,UPDATE AND DELETE.
+Faciliates in understanding and demonstrating about the basic concepts of CREATE,READ,UPDATE AND DELETE
 
 
 BUILT WITH
