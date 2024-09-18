@@ -1,4 +1,5 @@
 CRUD APPLICATION USING VISUAL STUDIO AND MYSQL DATABASE
+
 Faciliates in understanding and demonstrating about the basic concepts of CREATE,READ,UPDATE AND DELETE.
 
 [Screenshot (4)](https://github.com/user-attachments/assets/cbacccdc-7199-4ffb-b67a-568b641b117c)
