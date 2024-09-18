@@ -5,6 +5,7 @@ Faciliates in understanding and demonstrating about the basic concepts of CREATE
 [Screenshot (4)](https://github.com/user-attachments/assets/cbacccdc-7199-4ffb-b67a-568b641b117c)
 
 BUILT WITH
+
 Programming Language: C#(.Net Framework)
  
 Database: Microsoft SQL Server
@@ -65,7 +66,9 @@ SqlDataAdapter sd = new SqlDataAdapter(command);
 DataTable dt = new DataTable();
 sd.Fill(dt);
 dataGridView1.DataSource = dt;
+
 TECHNOLOGY
+
 Programming Language: C#
  
 Database: SQL Server
