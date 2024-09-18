@@ -22,7 +22,7 @@ Search: Search for the existing data from the datagridview
 SQL QUERY
 Table Design
 
-CREATE TABLE [dbo].[Tabel_1] ( [ProductID] INT (50), [ItemName] VARCHAR (50), [Desin] IVARCHAR(250) , [COLOR] VARCHAR (50), [Date] datetime , [UpdateDate] datetime, CONSTRAINT [PK_Table_1] PRIMARY KEY CLUSTERED ([ProductID] ASC) );
+CREATE TABLE [dbo].[Tabel_1] ( [ProductID] INT (50), [ItemName] VARCHAR (50), [Desin] IVARCHAR(250) , [COLOR] VARCHAR (50), [Date] datetime , [UpdateDate] datetime,[InsertDate] datetime, CONSTRAINT [PK_Table_1] PRIMARY KEY CLUSTERED ([ProductID] ASC) );
 
 Insert
 
@@ -37,7 +37,7 @@ Insert
 
 Update
 
-update Table_1 set MemberName='" + textBox2.Text
+update Table_1 set ProductID='" + textBox2.Text
 
   con.Open();
   SqlCommand command = new SqlCommand("update Table_1 set ItemName= '" + textBox2.Text + "', Color ='" + comboBox1.Text + "',Design = '"+textBox3.Text+"', UpdateDate = '"+DateTime.Parse(dateTimePicker1.Text) +"' 
